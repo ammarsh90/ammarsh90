@@ -1,63 +1,90 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="AmmarGsm — Software Developer. Desktop, Web, Mobile and Embedded Systems." width="100%" />
+<img src="./assets/header.svg" alt="Ammar — Software Developer specializing in C++ and Qt" width="100%" />
 
 <br />
 
-I’m **Ammar**, a software developer working across desktop applications,<br />
-web development, mobile interfaces, and embedded systems.
+**C++ & Qt · C# · Python · PHP / Laravel**
+
+Developing desktop applications, web software, and tools that connect software with devices.
 
 <br />
 
-<a href="#languages">Languages</a> &nbsp; / &nbsp;
-<a href="#frameworks">Frameworks</a> &nbsp; / &nbsp;
-<a href="#embedded-systems">Embedded Systems</a>
+<a href="https://t.me/AmmarGsm"><img src="https://img.shields.io/badge/Contact%20me-TELEGRAM-1E293B?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Ammar on Telegram" /></a>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO-SOFTWARE%20DEVELOPER%20ROLES-15372F?style=for-the-badge" alt="Open to software developer roles" />
 
 </div>
 
 <br />
 
-## Languages
+## About
 
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-161B22?style=for-the-badge&logo=cplusplus&logoColor=78A9FF" alt="C++" />
-  <img src="https://img.shields.io/badge/C%23-161B22?style=for-the-badge&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&logo=php&logoColor=A5A9E8" alt="PHP" />
-  <img src="https://img.shields.io/badge/Delphi-161B22?style=for-the-badge&logo=delphi&logoColor=F08080" alt="Delphi" />
-  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=F0CC75" alt="Python" />
-</p>
+I'm **Ammar**, also known as **AmmarGsm**. I develop software across desktop, web, mobile, and embedded environments, with a particular focus on **C++ and Qt desktop development**.
 
-## Frameworks
+My background includes Android / GSM utilities and device-oriented workflows. I’m interested in roles where I can contribute to useful software, solve technical problems, and grow within an engineering team.
 
-<p>
-  <img src="https://img.shields.io/badge/Qt-161B22?style=for-the-badge&logo=qt&logoColor=73D69B" alt="Qt" />
-  <img src="https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&logo=laravel&logoColor=FF8278" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Flutter-161B22?style=for-the-badge&logo=flutter&logoColor=74C7F2" alt="Flutter" />
-</p>
+## Technical skills
 
-## Embedded Systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Arduino-161B22?style=for-the-badge&logo=arduino&logoColor=69CBC7" alt="Arduino" />
-  <img src="https://img.shields.io/badge/ESP32-161B22?style=for-the-badge&logo=espressif&logoColor=F08080" alt="ESP32" />
-</p>
+### Desktop development
+
+**C++ · Qt · C# · Delphi**
+
+Desktop applications, graphical interfaces, and software utilities.
+
+</td>
+<td width="50%" valign="top">
+
+### Web development
+
+**PHP · Laravel**
+
+Web applications and backend development.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Automation & scripting
+
+**Python**
+
+Scripts and utilities for practical, repeatable workflows.
+
+</td>
+<td width="50%" valign="top">
+
+### Mobile & embedded
+
+**Flutter · Arduino · ESP32**
+
+Mobile interfaces and microcontroller development.
+
+</td>
+</tr>
+</table>
 
 <br />
 
-## Development Focus
-
-| Domain | Stack |
-| :--- | :--- |
-| **Desktop** | C++ · Qt · C# · Delphi |
-| **Web** | PHP · Laravel |
-| **Mobile** | Flutter |
-| **Automation** | Python |
-| **Embedded** | Arduino · ESP32 |
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,qt,cs,python,php,laravel,flutter,arduino&perline=8" alt="C++, Qt, C#, Python, PHP, Laravel, Flutter, and Arduino" />
 <br />
+<sub>Also working with <strong>Delphi</strong> and <strong>ESP32</strong>.</sub>
+</p>
 
-<div align="center">
-<sub><strong>AMMARGSM</strong> &nbsp; · &nbsp; SOFTWARE DEVELOPMENT</sub>
-</div>
+## Opportunities
 
+I'm looking for **software development opportunities**, particularly in **C++ / Qt desktop applications**. My broader stack includes C#, Delphi, Python, PHP / Laravel, Flutter, Arduino, and ESP32.
 
+For hiring enquiries and professional conversations, reach me on **[Telegram · @AmmarGsm](https://t.me/AmmarGsm)**.
+
+---
+
+<p align="center">
+<sub><strong>AMMAR · SOFTWARE DEVELOPER</strong><br />Desktop / Web / Mobile / Embedded</sub>
+</p>
