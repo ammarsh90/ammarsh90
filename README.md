@@ -4,13 +4,14 @@
 
 <br />
 
-**C++ & Qt · C# · Python · PHP / Laravel**
+**Software Engineering · Backend & APIs · Desktop Applications**
 
-Developing desktop applications, web software, and tools that connect software with devices.
+C++ / Qt · C# · Python · PHP / Laravel<br />
+Seeking software engineering opportunities in the **United Arab Emirates**.
 
 <br />
 
-<a href="https://t.me/AmmarGsm"><img src="https://img.shields.io/badge/Contact%20me-TELEGRAM-1E293B?style=for-the-badge&logo=telegram&logoColor=white" alt="Contact Ammar on Telegram" /></a>
+<a href="mailto:ammar.alshabaan00@gmail.com"><img src="https://img.shields.io/badge/HIRING%20ENQUIRIES-EMAIL-1E293B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ammar for hiring enquiries" /></a>
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN%20TO-SOFTWARE%20DEVELOPER%20ROLES-15372F?style=for-the-badge" alt="Open to software developer roles" />
 
@@ -20,9 +21,9 @@ Developing desktop applications, web software, and tools that connect software w
 
 ## About
 
-I'm **Ammar**, also known as **AmmarGsm**. I develop software across desktop, web, mobile, and embedded environments, with a particular focus on **C++ and Qt desktop development**.
+I'm **Ammar**, also known as **AmmarGsm**. I develop software across desktop, web, mobile, and embedded environments, with a focus on **desktop applications, backend services, and API development**.
 
-My background includes Android / GSM utilities and device-oriented workflows. I’m interested in roles where I can contribute to useful software, solve technical problems, and grow within an engineering team.
+My background includes Android / GSM utilities and device-oriented workflows. I’m interested in complete application development: connecting user interfaces, backend logic, and integrations to deliver practical software.
 
 ## Technical skills
 
@@ -32,7 +33,7 @@ My background includes Android / GSM utilities and device-oriented workflows. I�
 
 ### Desktop development
 
-**C++ · Qt · C# · Delphi**
+**C++ · Qt · C# · Python · Delphi**
 
 Desktop applications, graphical interfaces, and software utilities.
 
@@ -43,7 +44,7 @@ Desktop applications, graphical interfaces, and software utilities.
 
 **PHP · Laravel**
 
-Web applications and backend development.
+Backend applications, API development, and application integrations.
 
 </td>
 </tr>
@@ -79,9 +80,10 @@ Mobile interfaces and microcontroller development.
 
 ## Opportunities
 
-I'm looking for **software development opportunities**, particularly in **C++ / Qt desktop applications**. My broader stack includes C#, Delphi, Python, PHP / Laravel, Flutter, Arduino, and ESP32.
+I’m seeking **Software Engineer**, **Backend / API Developer**, and **Desktop Application Developer** roles in the **United Arab Emirates**. I’m also open to complete application development engagements using C++, C#, Python, or PHP / Laravel.
 
-For hiring enquiries and professional conversations, reach me on **[Telegram · @AmmarGsm](https://t.me/AmmarGsm)**.
+**Email:** [ammar.alshabaan00@gmail.com](mailto:ammar.alshabaan00@gmail.com)  
+**Telegram:** [@AmmarGsm](https://t.me/AmmarGsm)
 
 ---
 
