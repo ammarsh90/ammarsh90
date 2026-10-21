@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
 <title id="title">Ammar | Software Developer</title>
-<desc id="desc">C++ and Qt. Desktop, Web, Mobile, and Embedded development. Open to opportunities.</desc>
+<desc id="desc">Software Engineer roles, Backend and API Development, and Desktop Applications. Seeking opportunities in the United Arab Emirates.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b2b"/><stop offset="1" stop-color="#080e17"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#233247" stroke-width=".7"/></pattern></defs>
 <rect width="1200" height="380" rx="18" fill="url(#bg)"/>
 <rect x="780" width="420" height="380" fill="url(#grid)" opacity=".5"/>
@@ -11,7 +11,7 @@
 <text x="65" y="258" fill="#63d5c4" font-family="Consolas,monospace" font-size="20">C++ / Qt / C# / Python / PHP</text>
 <path d="M64 292h665" stroke="#2a3a50"/>
 <circle cx="70" cy="324" r="4" fill="#63d5c4"/>
-<text x="86" y="329" fill="#adbed2" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">OPEN TO SOFTWARE DEVELOPMENT OPPORTUNITIES</text>
+<text x="86" y="329" fill="#adbed2" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">SEEKING SOFTWARE ENGINEERING ROLES IN THE UAE</text>
 <rect x="833" y="108" width="285" height="174" rx="12" fill="#111d2d" stroke="#2d435c"/>
 <circle cx="854" cy="128" r="3" fill="#526a84"/><circle cx="868" cy="128" r="3" fill="#526a84"/><circle cx="882" cy="128" r="3" fill="#526a84"/>
 <path d="M833 147h285" stroke="#2d435c"/>
