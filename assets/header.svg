@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">AmmarGsm — Software Developer</title>
+<desc id="desc">Desktop, Web, Mobile and Embedded Systems. Gold typography on a charcoal background.</desc>
+<rect width="1200" height="340" rx="20" fill="#10151d"/>
+<path d="M860 0v340M940 0v340M1020 0v340M1100 0v340M780 70h420M780 150h420M780 230h420M780 310h420" stroke="#202a36" stroke-width="1"/>
+<path d="M925 105l-55 65 55 65M1045 105l55 65-55 65M1010 80l-50 180" fill="none" stroke="#c5a568" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="64" y="60" width="38" height="3" rx="1.5" fill="#d8b778"/>
+<text x="64" y="103" fill="#b8c1cd" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">SOFTWARE DEVELOPER</text>
+<text x="60" y="191" fill="#f0eee8" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Ammar<tspan fill="#d8b778">Gsm</tspan></text>
+<text x="65" y="245" fill="#b8c1cd" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="1">Desktop  /  Web  /  Mobile  /  Embedded</text>
+<path d="M64 288h630" stroke="#2b3440"/>
+</svg>
+
