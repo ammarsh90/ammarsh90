@@ -1,13 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">AmmarGsm — Software Developer</title>
-<desc id="desc">Desktop, Web, Mobile and Embedded Systems. Gold typography on a charcoal background.</desc>
-<rect width="1200" height="340" rx="20" fill="#10151d"/>
-<path d="M860 0v340M940 0v340M1020 0v340M1100 0v340M780 70h420M780 150h420M780 230h420M780 310h420" stroke="#202a36" stroke-width="1"/>
-<path d="M925 105l-55 65 55 65M1045 105l55 65-55 65M1010 80l-50 180" fill="none" stroke="#c5a568" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="64" y="60" width="38" height="3" rx="1.5" fill="#d8b778"/>
-<text x="64" y="103" fill="#b8c1cd" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="4">SOFTWARE DEVELOPER</text>
-<text x="60" y="191" fill="#f0eee8" font-family="Segoe UI,Arial,sans-serif" font-size="72" font-weight="700" letter-spacing="-2">Ammar<tspan fill="#d8b778">Gsm</tspan></text>
-<text x="65" y="245" fill="#b8c1cd" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="1">Desktop  /  Web  /  Mobile  /  Embedded</text>
-<path d="M64 288h630" stroke="#2b3440"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+<title id="title">Ammar | Software Developer</title>
+<desc id="desc">C++ and Qt. Desktop, Web, Mobile, and Embedded development. Open to opportunities.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b2b"/><stop offset="1" stop-color="#080e17"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#233247" stroke-width=".7"/></pattern></defs>
+<rect width="1200" height="380" rx="18" fill="url(#bg)"/>
+<rect x="780" width="420" height="380" fill="url(#grid)" opacity=".5"/>
+<rect x="64" y="54" width="34" height="3" rx="1.5" fill="#63d5c4"/>
+<text x="112" y="62" fill="#9bafc7" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">AMMARGSM</text>
+<text x="60" y="155" fill="#f0f5fc" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="-2">Ammar</text>
+<text x="64" y="208" fill="#b6c8df" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400">Software Developer</text>
+<text x="65" y="258" fill="#63d5c4" font-family="Consolas,monospace" font-size="20">C++ / Qt / C# / Python / PHP</text>
+<path d="M64 292h665" stroke="#2a3a50"/>
+<circle cx="70" cy="324" r="4" fill="#63d5c4"/>
+<text x="86" y="329" fill="#adbed2" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1">OPEN TO SOFTWARE DEVELOPMENT OPPORTUNITIES</text>
+<rect x="833" y="108" width="285" height="174" rx="12" fill="#111d2d" stroke="#2d435c"/>
+<circle cx="854" cy="128" r="3" fill="#526a84"/><circle cx="868" cy="128" r="3" fill="#526a84"/><circle cx="882" cy="128" r="3" fill="#526a84"/>
+<path d="M833 147h285" stroke="#2d435c"/>
+<path d="M927 176l-25 29 25 29M1023 176l25 29-25 29M991 167l-31 77" fill="none" stroke="#63d5c4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
-
